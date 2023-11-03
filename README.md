@@ -9,3 +9,7 @@ Taildwind CSSのCSS grid layoutに追加の設定をしています。
 `tailwind.config.ts`の設定をすれば、Next.jsであればコンポーネントのソースコードをコピペすれば使えます。
 
 その他のフレームワークなどで使用する場合は、そのままでは使えないので、一部を書き換える必要があります。
+
+以下、サンプルです。
+
+[Japan Map](https://k-neko3.github.io/japan-map/)
